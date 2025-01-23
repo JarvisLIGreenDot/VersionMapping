@@ -2,9 +2,9 @@
 A PowerShell tool for file version mapping 
 
 
-# prerequisite
+# Prerequisite
 
-If you can not run power shell script , you can set the policy ,the temporary solution is to run below command to set policy. 
+If you can not run power shell script , you can set the policy, the temporary solution is to run below command to set policy. 
 
 ~~~
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
